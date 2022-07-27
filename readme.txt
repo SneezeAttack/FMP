@@ -1,0 +1,3 @@
+This is a simulation of a food processing facility based off a real place. Front end is not at all considered and database is a vague idea. This is bound to cause some inconsistensies.
+
+It simulates the point of receiving the raw materials, to putting it into storage with imagined visuals in the front end as the where everything is placed, and then sent into processing. I will skip the actual processing for time constraints. 
